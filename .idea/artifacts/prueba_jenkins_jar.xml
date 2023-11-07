@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prueba_jenkins:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prueba_jenkins_jar</output-path>
+    <root id="archive" name="prueba_jenkins.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Descargas/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="prueba_jenkins" />
+    </root>
+  </artifact>
+</component>
